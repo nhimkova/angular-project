@@ -1,0 +1,19 @@
+body {
+	background-color: #0b0f2a;
+	color: white;
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.summary-wrapper {
+	display: flex;
+}
+
+.hour, .minute, .second {
+	width: 33%;
+	margin: auto;
+	height: 300px;
+}
+
+.top-chart, .bottom-chart {
+	width: 100%;
+}
